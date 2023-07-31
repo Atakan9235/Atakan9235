@@ -1,7 +1,5 @@
 
 
-
-
 ![](https://komarev.com/ghpvc/?username=your-github-atakan9235&label=PROFILE+VIEWS)
 
 ### Languages and Tools:
